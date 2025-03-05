@@ -8,3 +8,5 @@ RU:
 
 EN:
 Trying to reach LXC container, Kali NetHunter support. (I don’t want KernelSU, I don’t plan to patch myself yet, I have Magisk)
+
+To be continued...
